@@ -1,4 +1,4 @@
-package A.Variables;
+package ClassLearningExamples.Variables;
 
 public class Constant {
 
